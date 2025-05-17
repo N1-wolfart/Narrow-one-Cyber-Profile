@@ -3,7 +3,7 @@
 // @namespace    https://github.com/yourname/narrowone-cyber-profile-mod
 // @version      1.0
 // @description  Cyber-styled glowing profile menu for Narrow.One – works on iOS via Userscripts app!
-// @author       ραɾɾοɭ
+// @author       wolfart
 // @match        https://narrow.one/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=narrow.one
 // @grant        GM_addStyle
