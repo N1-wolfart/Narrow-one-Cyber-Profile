@@ -16,8 +16,7 @@ It adds a slightly wider layout, soft glowing borders, and a subtle animated bac
 
 ## 🎮 Preview
 
-> ❗ Screenshots coming soon  
-(Feel free to add a screenshot or short GIF showing the profile in-game)
+<img width="255" alt="Image" src="https://github.com/user-attachments/assets/030bbf14-693a-489d-aa8a-4e4dc79b476c" />
 
 ---
 
